@@ -7,4 +7,4 @@ title: "Home"
 
 I'm Daluchi Ugochukwu and this is my SE Freshman Seminar Website
 
-[Go to my About Page](about.html)
+[My About Page](about.md)
