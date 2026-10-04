@@ -17,3 +17,4 @@ working out.
 # My Favourite Food
 
 My favourite food is spaghetti and meatballs, as shown in the following image
+![My favourite food](spaghetti-meatballs.jpg)
