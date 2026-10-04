@@ -14,3 +14,6 @@ I enjoy developing video games (really only roblox games right now, but I'm goin
 I become more advanced in video game developing), playing video games, playing sports (specifically track & field, as I am a sprinter), hanging out with family & friends, and 
 working out.
 
+# My Favourite Food
+
+My favourite food is spaghetti and meatballs, as shown in the following image
