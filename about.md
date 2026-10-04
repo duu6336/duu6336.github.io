@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-permalink: /about-me/
+permalink: /about-me.html
 ---
 
 Hello and Welcome to my Website!
