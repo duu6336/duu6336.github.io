@@ -23,3 +23,11 @@ My favourite food is spaghetti and meatballs, as shown in the following image
 
 The link to the RIT SE Website is provided here:
 ![RIT Software Engineering Website Link](https://www.rit.edu/computing/department-software-engineering)
+
+# Things I'd Potentially Be Interested in Learning About in SE Freshman Seminar
+
+Some things that I may be interested in learning about from this course, SE Freshman Seminar, are:
+- How to program websites and other things, along with just knowing how to efficiently program using the coding languages: html and java
+- How to effectively use software engineering principles
+- How real software engineering is actually developed from an idea to a finished product
+- If possible, how to build my first substantial software project rather than just small class assignments (if possible however. Time and availability is a huge limiting factor to this)
