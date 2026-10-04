@@ -18,3 +18,8 @@ working out.
 
 My favourite food is spaghetti and meatballs, as shown in the following image
 ![My favourite food](spaghetti-meatballs.jpg)
+
+# Link to RIT SE Website
+
+The link to the RIT SE Website is provided here:
+![RIT Software Engineering Website Link](https://www.rit.edu/computing/department-software-engineering)
